@@ -1,10 +1,7 @@
 # Overview
 
 The following was made to generate the words "Hello World"
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](https://www.youtube.com/watch?v=Ks6JH9u8YnU&ab_channel=Chan-YoungChoi)
+Youtube video: (https://www.youtube.com/watch?v=Ks6JH9u8YnU&ab_channel=Chan-YoungChoi)
 
 # Development Environment
 
